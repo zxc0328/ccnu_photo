@@ -1,0 +1,17 @@
+{
+  "name": "ccnu_photo",
+  "version": "1.0.0",
+  "description": "A simple api to get the photo of everyone in CCNU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zindex",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.4"
+  },
+  "dependencies": {
+    "phantom": "^0.8.4"
+  }
+}
